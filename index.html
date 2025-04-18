@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Trang Chủ - Nhà Sách Online</title>
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/index.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="logo">Nhà Sách Online</div>
+            <input type="text" id="search-box" placeholder="Tìm kiếm sách...">
+            <nav class="nav" id="nav-user">
+                <a href="index.html">Trang chủ</a>
+                <a href="account.html">Tài khoản</a>
+                <a href="cart.html">Giỏ hàng</a>
+            </nav>
+        </header>
+
+        <div class="container">
+            <aside class="sidebar">
+                <h3>Danh mục sách</h3>
+                <ul></ul>
+            </aside>
+
+            <main class="main">
+                <section class="banner-slideshow">
+                    <div class="slides">
+                        <img src="assets/imgB/banner1.jpg" alt="Banner 1" class="slide active">
+                        <img src="assets/imgB/banner2.jpg" alt="Banner 2" class="slide">
+                        <img src="assets/imgB/banner3.jpg" alt="Banner 3" class="slide">
+                        <img src="assets/imgB/banner4.jpg" alt="Banner 4" class="slide">
+                    </div>
+                </section>
+
+                <section>
+                    <h2>Sách nổi bật</h2>
+                    <div id="book-list" class="grid"></div>
+                    <div id="pagination" class="pagination"></div>
+                </section>
+            </main>
+        </div>
+
+        <footer class="footer">
+            <div class="footer-col">
+                <h4>Chăm sóc khách hàng</h4>
+                <ul>
+                    <li><a href="tel:1900123456">Hotline: 1900 123456</a></li>
+                    <li><a href="mailto:nhasachnho@gmail.vn">Email: nhasachnho@gmail.vn</a></li>
+                    <li><a href="documents/Chinh_Sach_Doi_Tra.pdf" target="_blank">Chính sách đổi trả</a></li>
+                    <li><a href="documents/Chinh_Sach_Bao_Mat.pdf" target="_blank">Chính sách bảo mật</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Về chúng tôi</h4>
+                <ul>
+                    <li><a href="documents/Gioi_Thieu_Nha_Sach.pdf" target="_blank">Giới thiệu nhà sách</a></li>
+                    <li><a href="documents/Co_Hoi_Nghe_Nghiep.pdf" target="_blank">Cơ hội nghề nghiệp</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Hỗ trợ khách hàng</h4>
+                <ul>
+                    <li><a href="documents/Huong_Dan_Mua_Hang.pdf" target="_blank">Hướng dẫn mua hàng</a></li>
+                    <li><a href="documents/Chinh_Sach_Giao_Hang.pdf" target="_blank">Chính sách giao hàng</a></li>
+                    <li><a href="documents/Phuong_Thuc_Thanh_Toan.pdf" target="_blank">Phương thức thanh toán</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Kết nối</h4>
+                <div class="socials">
+                    <span><i class="fab fa-facebook-f"></i></span>
+                    <span><i class="fab fa-instagram"></i></span>
+                    <span><i class="fab fa-twitter"></i></span>
+                </div>
+            </div>
+        </footer>
+
+
+    </div>
+    <!-- Firebase App (the core Firebase SDK) -->
+    <script type="module" src="js/firebase.js"></script>
+
+    <!-- Các module JavaScript -->
+    <script type="module" src="js/user.js"></script>
+    <script type="module" src="js/cart.js"></script>
+    <script type="module" src="js/book.js"></script>
+    <script type="module" src="js/main.js"></script>
+
+    <!-- Script khởi tạo -->
+    <script type="module">
+        import { fetchBooks, renderBooks, renderCategorySidebar } from './js/book.js';
+
+        // Khởi tạo danh sách sách và sidebar
+        window.addEventListener('DOMContentLoaded', async () => {
+            await fetchBooks();
+            renderBooks('book-list');
+            renderCategorySidebar();
+        });
+    </script>
+</body>
+
+</html>

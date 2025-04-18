@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Tài khoản của tôi</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="logo">Nhà Sách Online</div>
+        <input type="text" id="search-box" placeholder="Tìm kiếm sách...">
+        <nav class="nav" id="nav-user"></nav>
+    </header>
+
+    <main class="main">
+        <section class="account-info">
+            <h2>Thông tin tài khoản</h2>
+            <div id="account-details"></div>
+        </section>
+
+        <section class="order-history">
+            <h2>Lịch sử đơn hàng</h2>
+            <button id="toggle-orders">Lịch sử đơn</button>
+            <input type="date" id="filter-date" style="margin-left: 10px; padding: 5px; border-radius: 4px;">
+            <div id="order-list" class="hidden" style="max-height: 400px; overflow-y: auto;"></div>
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2025 Nhà Sách Online</p>
+    </footer>
+
+    <!-- Firebase & User Nav -->
+    <script type="module" src="js/firebase.js"></script>
+    <script type="module" src="js/user.js"></script>
+
+    <!-- Trang Tài khoản -->
+    <script type="module" src="js/account.js"></script>
+</body>
+
+</html>

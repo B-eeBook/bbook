@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "title": "Có Một Mùa Hè Chưa Từng Lãng Quên",
+        "author": "Minh & Sứa",
+        "category": "Sách văn học",
+        "price": 120000,
+        "image": "assets/book_img/vh/1.png",
+        "description": "Cuốn sách đưa bạn về những năm tháng tuổi trẻ, tìm lại chính mình trong những câu chuyện ngày xưa. Mùa hè, như tuổi trẻ, luôn vỗ về và nâng đỡ ta lớn lên. Mong rằng, dù bước qua bao giông bão, tôi vẫn giữ được trái tim nguyên vẹn như những năm tháng đôi mươi."
+    },
+    {
+        "id": 2,
+        "title": "Ra Vườn Nhặt Nắng",
+        "author": "Nguyễn Thế Hoàng Linh",
+        "category": "Sách văn học",
+        "price": 98000,
+        "image": "assets/book_img/vh/2.jpg",
+        "description": "“Độ trong nào của giọt sương đã giúp Ra vườn nhặt nắng mở rộng thêm biên giới cho yêu thương?”. “Ra vườn nhặt nắng” thật sự là một tập thơ dành cho trẻ em, viết cho trẻ em, viết về trẻ em. Những vần thơ giản dị mà tinh tế của Nguyễn Thế Hoàng Linh đã mở ra một không gian rộng, đầy màu sắc để trí tưởng tượng và những giấc mơ được chắp cánh bay. Tinh tế và yêu thương, tác giả đã dùng góc nhìn của đứa trẻ để quan sát cuộc sống, nghe hơi thở cuộc sống, dùng lời con trẻ để nói hộ con trẻ. Dưới lăng kính đó, thế giới muôn màu đâu chỉ có những bài ca giáo dục khô khan mà trở nên lung linh và kỳ diệu hơn."
+    },
+    {
+        "id": 3,
+        "title": "Cơm Nhà Vì Sao Ngon Đến Thế?",
+        "author": "t.hờ",
+        "category": "Sách văn học",
+        "price": 95000,
+        "image": "assets/book_img/vh/3.jpg",
+        "description": "Cơm nhà của ba mẹ luôn mang một hương vị đặc biệt, thứ hương vị mà dù đi qua bao nơi, dù thưởng thức bao món ngon, mình cũng chẳng thể tìm lại. Những món ăn ấy chẳng cầu kỳ, chỉ là bát canh rau mẹ hái vội sau vườn, nồi cá kho đậm đà ba tỉ mẩn canh lửa hay đĩa trứng chiên thơm lừng, nhưng lại chứa đựng cả tình yêu và sự quan tâm giản dị nhất. Mỗi lần nghĩ đến, tim mình lại dâng lên cảm giác ấm áp, yên bình đến lạ."
+    },
+    {
+        "id": 4,
+        "title": "Bốn Mùa Thương Em",
+        "author": "Trxx & Phàm",
+        "category": "Sách văn học",
+        "price": 70000,
+        "image": "assets/book_img/vh/4.png",
+        "description": "“Bốn mùa thương em” là cuốn tản văn về hành trình đi tìm lại hạnh phúc từ những điều bình dị nhất. Dưới sự kết hợp đầy duyên dáng của hai tác giả trẻ Trxx và Phàm, hạnh phúc được mở ra như một cơn gió, không thể nhìn thấy được, cũng không tồn tại mãi mãi được, chỉ có thể cảm nhận trong chốc lát. Hạnh phúc có thể đến từ bất kỳ đâu cả vào những lúc ta không ngờ nhất, chỉ mong rằng, khi nhận ra, ta đủ trân trọng và giữ gìn."
+    },
+    {
+        "id": 5,
+        "title": "Biết Ơn Mình",
+        "author": "Đỗ Hồng Ngọc",
+        "category": "Sách văn học",
+        "price": 100000,
+        "image": "assets/book_img/vh/5.jpg",
+        "description": "Cuốn sách là tập hợp những bài viết về 'Sức khỏe và đời sống' được Bác sĩ Đỗ Hồng Ngọc tuyển chọn, biên soạn lại nhằm giúp người cao tuổi có một nếp sống mạnh khỏe hơn, an lạc hơn... Để có được một tuổi già hạnh phúc thì 'Biết ơn mình' thực sự là một giai đoạn cần thiết."
+    },
+    {
+        "id": 6,
+        "title": "Giữa Hai Nhịp Thở Ngày Đêm",
+        "author": "winday",
+        "category": "Sách văn học",
+        "price": 111000,
+        "image": "assets/book_img/vh/6.jpg",
+        "description": "Những câu thơ trong “Giữa hai nhịp thở ngày đêm” có thể diễn giải trăn trở sâu thẳm trong nội tâm cậu. Chúng cho phép cậu lắng nghe, vỗ về, đối thoại, thậm chí tranh cãi hay giằng xé với chính mình. Nhưng dù là thấu hiểu hay đấu tranh, tất cả đều diễn ra từ chính tâm hồn cậu - nơi cậu không cần phải trốn chạy hay trông chờ vào sự cứu rỗi từ bất kỳ ai khác."
+    },
+    {
+        "id": 7,
+        "title": "Tình Yêu Vẫn Cháy Trong Đống Tro Tàn",
+        "author": "Dương Hạn, Hạ Mer",
+        "category": "Sách văn học",
+        "price": 150000,
+        "image": "assets/book_img/vh/7.png",
+        "description": "“Những thứ không thành là do ông trời đang bảo vệ bạn. Tình yêu đôi khi cũng chỉ là một dạng trải nghiệm, nếu đi cùng nhau đến cuối đường thì hạnh phúc, nếu có chia ly có thể vì ông trời đang muốn bảo vệ chúng ta. Vậy nên, hãy cứ tin rằng chúng ta xứng đáng có được hạnh phúc. Tất cả những gì đã từng trải qua đều là bài học cho chúng ta lớn lên.”"
+    },
+    {
+        "id": 8,
+        "title": "Hương Linh Chấp Niệm",
+        "author": "Yquynh23",
+        "category": "Sách văn học",
+        "price": 80000,
+        "image": "assets/book_img/vh/8.png",
+        "description": "Sau khi con người qua đời, liệu linh hồn họ vẫn còn tồn tại? Liệu họ sẽ vất vưởng chốn nhân gian, hay nhẹ nhàng trở về cõi vô ngã, rồi tái sinh trong một kiếp sống mới?"
+    },
+    {
+        "id": 9,
+        "title": "Nhật Ký Crush Bạn Cùng Bàn",
+        "author": "Mía",
+        "category": "Sách văn học",
+        "price": 129000,
+        "image": "assets/book_img/vh/9.png",
+        "description": "Trúc Chi học bổ túc ở một ngôi trường nằm sâu trong ngõ nhỏ ít người qua lại. Tất cả những ký ức đáng nhớ nhất của cô về tuổi học trò chỉ là hồi năm cuối cấp ba, cô có một cậu bạn cùng bàn, thầm mến cậu ấy nhưng chẳng dám công khai. Năm 18 tuổi, Trúc Chi ôm mối tình đơn phương mà viết vào từng trang nhật ký, sau khi cuốn nhật ký bị lộ ra ngoài, hai người không còn gặp nhau. Năm 28 tuổi, Trúc Chi trở thành Hướng dẫn viên Du lịch, còn chàng trai cô từng thích giờ đã là người nổi tiếng, thế mà cậu ấy lại công khai theo đuổi cô."
+    },
+    {
+        "id": 10,
+        "title": "Ngày Ấy Buông Tay Hóa Ra Là Chuyện Tốt",
+        "author": "Trinh Nguyễn (23thang12)",
+        "category": "Sách văn học",
+        "price": 95000,
+        "image": "assets/book_img/vh/10.png",
+        "description": "Có đôi khi trong cuộc sống, chúng ta sẽ băn khoăn về câu hỏi 'thời điểm đúng' để yêu hay để buông bỏ. Nhưng liệu thật sự có một 'thời điểm đúng' nào để làm những điều này không? Hay đôi khi, chính trong những khoảnh khắc buông bỏ, ta lại tìm thấy sự giải thoát và mở ra cánh cửa cho những điều tốt đẹp hơn?"
+    },
+    {
+        "id": 11,
+        "title": "Rút Ngắn Tuần Làm Việc",
+        "author": "Alex Soojung, Kim Pang",
+        "category": "Sách kinh tế",
+        "price": 175000,
+        "image": "assets/book_img/kt/11.png",
+        "description": "Cuốn sách này kể về phong trào giảm giờ làm việc, thứ có thể đảo ngược đáng kể xu hướng nói trên. Không chỉ các công ty, như Perpetual Guardian và Tower Paddle Boards, mà cả dịch vụ công, như tại thành phố Reykjavík, Iceland, cũng chứng kiến những kết quả tích cực: mức độ căng thẳng của nhân viên giảm đáng kể, cân bằng công việc-cuộc sống được cải thiện, và sự hài lòng của họ với công việc cũng tăng rõ rệt. 'Rút ngắn tuần làm việc đưa ra lập luận mạnh mẽ ủng hộ việc làm ít thời gian hơn, cho chúng ta thấy bất kỳ doanh nghiệp nào cũng có thể được hưởng lợi khi cho nhân viên của họ nhiều thời gian rảnh rỗi hơn.'"
+    },
+    {
+        "id": 12,
+        "title": "Tri Thức Ánh Sáng",
+        "author": "Trần Đình Minh Anh",
+        "category": "Sách kinh tế",
+        "price": 125000,
+        "image": "assets/book_img/kt/12.png",
+        "description": "Cuốn sách giúp bạn duy trì động lực luyện tập, nâng cao thành tích thi đấu - được viết bởi IRONMAN Việt Nam đầu tiên chinh phục thành công cuộc đua triathlon khắc nghiệt cự ly siêu đường dài tại Áo (bơi 7.6km, đạp xe 360 km, chạy bộ 84 km). Đây là cuốn sách không thể thiếu cho bất kỳ ai muốn chinh phục ba môn phối hợp: Bơi - Đạp xe - Chạy bộ. Hãy khám phá giới hạn sức bền mới của bạn - ngay hôm nay - vì: Một lần là Ironman, cả đời là Ironman."
+    },
+    {
+        "id": 13,
+        "title": "Trò Chơi Tâm Lý Tiền Bạc",
+        "author": "Michael Lewis",
+        "category": "Sách kinh tế",
+        "price": 200000,
+        "image": "assets/book_img/kt/13.png",
+        "description": "Trò chơi tâm lý tiền bạc là một cuốn sách hấp dẫn mang đến cái nhìn cận cảnh về một nhân vật và một ngành công nghiệp đầy tranh cãi, và cũng là một lời nhắc nhở sắc sảo về những rủi ro tiềm tàng khi sự đổi mới không đi kèm với quản trị và kiểm soát."
+    },
+    {
+        "id": 14,
+        "title": "Nhân Sự Thực Chiến",
+        "author": "Kaoru Terashita",
+        "category": "Sách kinh tế",
+        "price": 105000,
+        "image": "assets/book_img/kt/14.png",
+        "description": "Trong môi trường kinh doanh hiện đại, nơi tốc độ và hiệu quả là yếu tố then chốt, Nhân sự Thực chiến chính là cuốn sách dành cho những ai muốn thành công trong việc quản trị nhân sự và giải quyết vấn đề một cách quyết đoán, hiệu quả."
+    },
+    {
+        "id": 15,
+        "title": "Kiếm Tiền Bằng Video Ngắn",
+        "author": " Ying Xiao Tie Jun",
+        "category": "Sách kinh tế",
+        "price": 65000,
+        "image": "assets/book_img/kt/15.jpg",
+        "description": "Cuốn sách này là một hướng dẫn thực chiến dành cho những ai muốn tận dụng sức mạnh của video ngắn để tiếp cận thị trường Trung Quốc. Tác giả đã kết hợp giữa lý thuyết marketing hiện đại và những kinh nghiệm thực tế từ các chiến dịch thành công trên các nền tảng như Douyin – phiên bản Trung Quốc của TikTok."
+    },
+    {
+        "id": 16,
+        "title": "5 Phút Chốt Đơn",
+        "author": "Alex Goldfein",
+        "category": "Sách kinh tế",
+        "price": 125000,
+        "image": "assets/book_img/kt/16.png",
+        "description": "Mục đích duy nhất của 5 phút chốt đơn là hỗ trợ và tạo động lực cho bạn triển khai hệ thống 16 giao tiếp đơn giản và nhanh như chớp làm tăng đáng kể và tăng bền vững doanh số bán hàng của bạn."
+    },
+    {
+        "id": 17,
+        "title": "Tinh Thần Chiến Đấu Rực Lửa",
+        "author": "Inamori Kazuo",
+        "category": "Sách kinh tế",
+        "price": 200000,
+        "image": "assets/book_img/kt/17.jpg",
+        "description": "Hãy cùng tìm hiểu tinh thần của doanh nhân mạnh mẽ nhất Nhật Bản Sau tái sinh JAL, tái sinh Nhật Bản! Quyển sách truyền đạt triết lý thành công, biến nguy thành cơ! Tại sao quản trị của Inamori là mạnh mẽ nhất? Tại sao bây giờ triết lý quản trị ấy vẫn được quan tâm? Câu trả lời nằm trong quyển sách này!"
+    },
+    {
+        "id": 18,
+        "title": "Nghĩ Lớn Để Thành Công",
+        "author": "Donald J Trump",
+        "category": "Sách kinh tế",
+        "price": 90000,
+        "image": "assets/book_img/kt/18.jpg",
+        "description": "Hai trong số các doanh nhân thành đạt nhất thế giới đã tiết lộ bí quyết suy nghĩ lớn để đạt được những thành công ngoạn mục. Hãy áp dụng quan điểm của Donald để truyền cảm hứng cho chính bạn, nhằm phá vỡ những hạn chế của bản thân. Bạn luôn có hai lựa chọn, hoặc bằng lòng với những suy nghĩ bình thường như bao người khác hoặc có thể suy nghĩ lớn."
+    },
+    {
+        "id": 19,
+        "title": "Cách Sống",
+        "author": "Inamori Kazuo",
+        "category": "Sách kinh tế",
+        "price": 166000,
+        "image": "assets/book_img/kt/19.jpg",
+        "description": "Cách sống giống như một cây gậy đập vào dòng chảy xiết của thời đại u mê. Tại sao tình trạng u ám bế tắc đó bao trùm toàn xã hội? Đó phải chăng là do con người đánh mất phương hướng cuộc đời, không nhìn thấy ý nghĩa cũng như giá trị sống? điều cần thiết nhất trong thời đại như vậy là chúng ta phải đặt lại câu hỏi rất căn bản: “ con người sống phải làm gì?”"
+    },
+    {
+        "id": 20,
+        "title": "Cách Những Công Ty Lớn Nhất Thế Giới Sinh Tồn",
+        "author": "Liz Hoffman",
+        "category": "Sách kinh tế",
+        "price": 155000,
+        "image": "assets/book_img/kt/20.jpg",
+        "description": "Cuốn sách xoay quanh cách những công ty - cụ thể là những CEO của những công ty hàng đầu thế giới - đưa ra những quyết định và hành động để lèo lái doanh nghiệp vượt qua một nền kinh tế liên tục biến động, từ khi COVID-19 chỉ là một tin tức phong thanh cho đến lúc khủng hoảng cao trào rồi chuyển sang giai đoạn hồi phục."
+    },
+    {
+        "id": 21,
+        "title": "Tự học ngữ pháp Tiếng Anh cơ bản",
+        "author": "Nhung Đỗ, Giang Vi",
+        "category": "Sách Ngoại Ngữ",
+        "price": 99000,
+        "image": "assets/book_img/nn/21.jpg",
+        "description": "Cung cấp những ngữ pháp cơ bản nhất trong tiếng Anh."
+    },
+    {
+        "id": 22,
+        "title": "Hackers Ielts Basic – Writing",
+        "author": "Hackers",
+        "category": "Sách Ngoại Ngữ",
+        "price": 199000,
+        "image": "assets/book_img/nn/22.jpg",
+        "description": "Hackers IELTS Writing Basic là cuốn tài liệu tự học hiệu quả cho những ai cần cải thiện kỹ năng viết để chuẩn bị cho kì thi IELTS. Cuốn sách được thiết kế khoa học giúp người học nắm được các cách diễn đạt thường dùng cùng từng dạng bài cụ thể trong mỗi task của bài thi IELTS Writing chỉ trong 4 tuần."
+    },
+    {
+        "id": 23,
+        "title": "Hackers Ielts Basic – Reading",
+        "author": "Hackers",
+        "category": "Sách Ngoại Ngữ",
+        "price": 219000,
+        "image": "assets/book_img/nn/23.jpg",
+        "description": "Kỹ năng đọc hiểu căn bản để đạt được điểm số mong muốn."
+    },
+    {
+        "id": 24,
+        "title": "Tiếng Hàn Tổng Hợp Dành Cho Người Việt Nam - Sơ Cấp 1 - Sách Bài Tập (Tái Bản 2023)",
+        "author": "Nhiều Tác Giả",
+        "category": "Sách Ngoại Ngữ",
+        "price": 89000,
+        "image": "assets/book_img/nn/24.jpg",
+        "description": "Sách bài tập tiếng Hàn tổng hợp sơ cấp 1 được biên tập với mục đích nhằm hỗ trợ cho việc ôn tập và luyện tập nâng cao của những người học quyển Giáo trình tiếng Hàn tổng hợp sơ cấp 1."
+    },
+    {
+        "id": 25,
+        "title": "10 Phút Tự Học Tiếng Anh Mỗi Ngày",
+        "author": "Nguyễn Thị Thu Huế",
+        "category": "Sách Ngoại Ngữ",
+        "price": 105000,
+        "image": "assets/book_img/nn/25.jpg",
+        "description": "Cuốn sách dành cho người học tiếng Anh ở trình độ sơ cấp và trung cấp có kèm CD."
+    },
+    {
+        "id": 26,
+        "title": "Luyện Thi Năng Lực Nhật Ngữ N4. Hán Tự, Từ Vựng",
+        "author": "SASAKI HITOKO, MATSUMOTO NORIKO",
+        "category": "Sách Ngoại Ngữ",
+        "price": 60000,
+        "image": "assets/book_img/nn/26.jpg",
+        "description": "Đây là bộ sách học tiếng Nhật hàng đầu trong hệ thống phân phối sách Kinokuniya lớn nhất Nhật Bản. Bộ sách này giúp những bạn chuẩn bị tham gia Kỳ thi năng lực Nhật ngữ JLPT nắm được những nội dung kiến thức cần phải có trong năng lực Nhật ngữ - trình độ N4 một cách nhanh chóng, hiệu quả và tổng quát nhất trong khoảng thời gian từ 4 đến 6 tuần."
+    },
+    {
+        "id": 27,
+        "title": "Luyện Thi Năng Lực Nhật Ngữ N5. Đọc Hiểu, Hán Tự, Nghe Hiểu, Ngữ Pháp, Từ Vựng",
+        "author": "SASAKI HITOKO & MATSUMOTO NORIKO",
+        "category": "Sách Ngoại Ngữ",
+        "price": 65000,
+        "image": "assets/book_img/nn/27.jpg",
+        "description": "Bộ sách gồm 1 quyển: \"Hán tự (Kanji) - Từ vựng (Goi) - Đọc hiểu (Dokkai) - Nghe hiểu (Choukai) - Ngữ pháp (Bunpou).\""
+    },
+    {
+        "id": 28,
+        "title": "N4 - 1500 Từ Vựng Cần Thiết Cho Kỳ Thi Năng Lực Nhật Ngữ",
+        "author": "SASAKI HITOKO & MATSUMOTO NORIKO",
+        "category": "Sách Ngoại Ngữ",
+        "price": 78000,
+        "image": "assets/book_img/nn/28.jpg",
+        "description": "Các từ vựng này được chia theo từng chủ đề, đi kèm các câu ví dụ."
+    },
+    {
+        "id": 29,
+        "title": "Box Set Baby’S First Word And Picture Dictionary - Từ Điển Song Ngữ Qua Tranh Cho Bé (6 Cuốn)",
+        "author": "The Kiwi",
+        "category": "Sách Ngoại Ngữ",
+        "price": 115000,
+        "image": "assets/book_img/nn/29.jpg",
+        "description": "Bộ sách bao gồm 6 cuốn sách nhỏ xinh cùng những hình vẽ dễ thương gồm 26 chủ đề đầu tiên thân thuộc nhất mà bé được khám phá."
+    },
+    {
+        "id": 30,
+        "title": "Tự Học Tiếng Anh Trong 24 Ngày",
+        "author": "Nguyễn Đại",
+        "category": "Sách Ngoại Ngữ",
+        "price": 45000,
+        "image": "assets/book_img/nn/30.png",
+        "description": "Tự Học Tiếng Anh Trong 24 Ngày"
+    },
+    {
+        "id": 31,
+        "title": "Châu Âu Vạn Dặm: Một Cuộc Đời Sống, Vạn Bước Chân Đi",
+        "author": "Miha Nguyễn - Nguyễn Hiếu",
+        "category": "Sách chuyên ngành",
+        "price": 100000,
+        "image": "assets/book_img/cn/31.jpg",
+        "description": "Châu Âu vạn dặm của tác giả Miha Nguyễn và Nguyễn Hiếu là một hành trình đầy màu sắc với những trải nghiệm độc đáo và sâu sắc của hai người trẻ từ Việt Nam đến Pháp để học tập và khám phá Châu Âu."
+    },
+    {
+        "id": 32,
+        "title": "Tập Văn Họa Kỷ Niệm Nguyễn Du (Bản giấy dó)",
+        "author": "",
+        "category": "Sách chuyên ngành",
+        "price": 200000,
+        "image": "assets/book_img/cn/32.jpg",
+        "description": "TẬP VĂN HOẠ KỶ NIỆM NGUYỄN DU được xuất bản lần đầu tiên tại Hà Nội vào năm 1942 đã gây một tiếng vang lớn trong cả diễn đàn phê bình văn học và hội họa thời điểm bấy giờ. Điều này không chỉ bởi những giá trị quan trọng của Truyện Kiều trong lịch sử ngôn ngữ, văn hóa của dân tộc mà nó còn gắn với lịch sử phát triển của nghệ thuật minh họa và in khắc sách tại Việt Nam."
+    },
+    {
+        "id": 33,
+        "title": "Hệ Thống Cơ Quan Giám Sát Triều Nguyễn (1802 - 1885) Từ Thiết Chế, Định Chế Đến Thực Tiễn (Bìa Cứng)",
+        "author": "TS.Ngô Đức Lập",
+        "category": "Sách chuyên ngành",
+        "price": 250250000,
+        "image": "assets/book_img/cn/33.jpg",
+        "description": "Sau nhiều biến cố thăng trầm, đến năm 1802 Nguyễn Ánh giành được chiến thắng trước nhà Tây Sơn lập ra vương triều Nguyễn và mở đầu giai đoạn trị và kéo dài 143 năm của triều đại quân chủ cuối cùng ở Việt Nam. Trong thời gian trị vì, 4 vị vua đầu của triều Nguyễn, từ Gia Long, Minh Mạng đến Thiệu Trị, Tự Đức đã dày công xây dựng bộ máy nhà nước quân chủ tập quyền vững mạnh."
+    },
+    {
+        "id": 34,
+        "title": "HOẠT ĐỘNG CHẾ TẠO VÀ QUẢN LÝ SỬ DỤNG VŨ KHÍ DƯỚI TRIỀU NGUYỄN GIAI ĐOẠN 1802-1883 (Bìa Cứng)",
+        "author": "TS.Trương Anh Thuận - ThS.Nguyễn Ngọc Đoàn",
+        "category": "Sách chuyên ngành",
+        "price": 239000,
+        "image": "assets/book_img/cn/34.png",
+        "description": "Triều Nguyễn là vương triều cuối cùng của chế độ quân chủ Việt Nam gắn liền với nhiều biến cố quan trọng của lịch sử dân tộc. Trong 143 năm tồn tại (1802-1945), vương triều Nguyễn cũng đã có nhiều đóng góp quan trọng đối với sự phát triển của đất nước."
+    },
+    {
+        "id": 35,
+        "title": "Chính Sách Tôn Giáo Thời Tự Đức (1848-1883)- Bìa cứng",
+        "author": "Nguyễn Ngọc Quỳnh",
+        "category": "Sách chuyên ngành",
+        "price": 265000,
+        "image": "assets/book_img/cn/35.png",
+        "description": "Chính sách tôn giáo dưới triều Nguyễn, đặc biệt dưới thời Tự Đức là giai đoạn để lại những dấu ấn sâu sắc, có vị trí quan trọng trong chính sách đối với tôn giáo thời phong kiến ở Việt Nam."
+    },
+    {
+        "id": 36,
+        "title": "Chữ, Văn Quốc Ngữ - Bìa Cứng",
+        "author": "Nguyễn Văn Trung",
+        "category": "Sách chuyên ngành",
+        "price": 300000,
+        "image": "assets/book_img/cn/36.jpg",
+        "description": "Chữ Quốc Ngữ là thứ chữ mà các giáo sĩ phương Tây cùng rất nhiều người Việt dùng chữ Latinh để ghi âm cách phát âm của người Việt."
+    },
+    {
+        "id": 37,
+        "title": "Việt Kiều Tại Các Xứ Lân Bang - Bìa Cứng",
+        "author": "",
+        "category": "Sách chuyên ngành",
+        "price": 175000,
+        "image": "assets/book_img/cn/37.jpg",
+        "description": "Số người Việt đã sang lập nghiệp tại các lân bang khi nào, cuộc sống của họ ra sao, được tổ chức như thế nào?"
+    },
+    {
+        "id": 38,
+        "title": "Yên Bái Đêm Đỏ Lửa _ Bìa Cứng",
+        "author": "Bốn Mắt",
+        "category": "Sách chuyên ngành",
+        "price": 112000,
+        "image": "assets/book_img/cn/38.jpg",
+        "description": "Cuốn sách YÊN BÁI ĐÊM ĐỎ LỬA (La nuit rouge de Yen Bai) của tác giả có bút danh Bốn Mắt, một sĩ quan quân đội Pháp, đã phân tích nguyên nhân dẫn đến vụ bạo động này."
+    },
+    {
+        "id": 39,
+        "title": "Tín Ngưỡng Và Tôn Giáo Dân Tộc Bahnar – Jrai",
+        "author": "TS.Nguyễn Thị Kim Vân",
+        "category": "Sách chuyên ngành",
+        "price": 299000,
+        "image": "assets/book_img/cn/39.jpg",
+        "description": "Tìm hiểu điều kiện môi sinh và truyền thống văn hóa dân tộc Bahnar, Jrai. Nghiên cứu tín ngưỡng cổ truyền và sự chuyển biến của các yếu tố trong tín ngưỡng cổ truyền."
+    },
+    {
+        "id": 40,
+        "title": "Bàn Về Văn Hóa Du Lịch Việt Nam",
+        "author": "Phan Huy Xu , Võ Văn Thành",
+        "category": "Sách chuyên ngành",
+        "price": 169000,
+        "image": "assets/book_img/cn/40.jpg",
+        "description": "Cuốn sách BÀN VỀ VĂN HÓA DU LỊCH VIỆT NAM góp phần làm rõ một số vấn đề nhận thức cơ bản về văn hóa du lịch nói chung cũng như văn hóa du lịch ở Việt Nam."
+    },
+    {
+        "id": 41,
+        "title": "Truyện Cổ Grimm",
+        "author": "Nhiều Tác Giả",
+        "category": "Sách thiếu nhi",
+        "price": 100000,
+        "image": "assets/book_img/tn/41.png",
+        "description": "Truyện cổ Grimm đã đưa các câu chuyện ấy của hai anh em nhà Grimm trở thành những tác phẩm mới mẻ với nhiều sắc màu sinh động, hình minh họa đặc sắc sẽ là lựa chọn đầu tiên trong tủ sách của bất kỳ gia đình nào."
+    },
+    {
+        "id": 42,
+        "title": "10 Vạn Câu Hỏi Vì Sao? Bí Ẩn Về Loài Chim, Động Vật Dưới Biển Và Đại Dương",
+        "author": "Nguyễn Loan",
+        "category": "Sách thiếu nhi",
+        "price": 55000,
+        "image": "assets/book_img/tn/42.png",
+        "description": "Bộ sách “10 Vạn Câu Hỏi Vì Sao” chính là giải pháp cho các bậc phụ huynh giải đáp vô vàn thắc mắc từ các thiên thần nhỏ chủa mình."
+    },
+    {
+        "id": 43,
+        "title": "Cái Tết Của Mèo Con",
+        "author": "Nguyễn Đình Thi, Thùy Dung",
+        "category": "Sách thiếu nhi",
+        "price": 32000,
+        "image": "assets/book_img/tn/43.png",
+        "description": "“Cái Tết của Mèo con” là bài học về lòng quả cảm và tinh thần đoàn kết. Câu chuyện mang đến thông điệp cho các bạn nhỏ của chúng ta: Lòng dũng cảm là một phẩm chất, được hình thành khi ta rèn luyện mỗi ngày."
+    },
+    {
+        "id": 44,
+        "title": "Những Kiến Thức Khoa Học Thiết Yếu Dành Cho Học Sinh Tiểu Học",
+        "author": "Katie Daynes, Stefano Tognetti",
+        "category": "Sách thiếu nhi",
+        "price": 80000,
+        "image": "assets/book_img/tn/44.png",
+        "description": "Qua cuốn sách này, các bạn nhỏ sẽ biết được các kiến thức khoa học bổ ích"
+    },
+    {
+        "id": 45,
+        "title": "Everything Under The Sun - 366 Câu Hỏi Lý Thú Của Trẻ",
+        "author": "Molly Oldfield",
+        "category": "Sách thiếu nhi",
+        "price": 90000,
+        "image": "assets/book_img/tn/45.png",
+        "description": "Cuốn sách này được bắt đầu dưới dạng tin tức âm thanh cùng tên: Everything Under The Sun. Dưới dạng tin tức âm thanh, các bạn nhỏ có thể ghi âm lại những câu hỏi của mình và cứ mỗi tuần, tôi sẽ chọn ra ba câu hỏi và giải đáp cho những câu hỏi ấy."
+    },
+    {
+        "id": 46,
+        "title": "Truyện Cổ Andersen",
+        "author": "Nhiều Tác Giả",
+        "category": "Sách thiếu nhi",
+        "price": 150000,
+        "image": "assets/book_img/tn/46.png",
+        "description": "Câu chuyện về các tòa lâu đài, những khu rừng sâu tăm tối, và hàng loạt nhân vật phi thường khác được minh họa qua nhiều bức tranh sinh động trong cuốn sách sẽ là trải nghiệm hoàn toàn mới mẻ và khó có thể quên."
+    },
+    {
+        "id": 47,
+        "title": "Chuyện Rừng Xanh",
+        "author": "Rudyard Kipling",
+        "category": "Sách thiếu nhi",
+        "price": 70000,
+        "image": "assets/book_img/tn/47.png",
+        "description": "CHUYỆN RỪNG XANH là tuyển tập những câu chuyện về thế giới động vật kì thú, đưa độc giả theo chân những chuyến phiêu lưu của các nhân vật khám phá nhiều chân trời mới."
+    },
+    {
+        "id": 48,
+        "title": "Chuyện Kể Cho Bé Mầm Non",
+        "author": "Nhiều Tác Giả",
+        "category": "Sách thiếu nhi",
+        "price": 65000,
+        "image": "assets/book_img/tn/48.png",
+        "description": "Bộ sách tuyển chọn những bài thơ hay nhất, cùng với tranh minh họa sinh động, bám sát các chủ đề trong chương trình Giáo dục Mầm non hiện hành."
+    },
+    {
+        "id": 49,
+        "title": "Em Bé Tiểu Học",
+        "author": "Nhiều Tác Giả",
+        "category": "Sách thiếu nhi",
+        "price": 240000,
+        "image": "assets/book_img/tn/49.png",
+        "description": "“Em bé Tiểu học” sẽ đặc biệt hữu ích với các bậc phụ huynh có con sắp hoặc đang theo học tiểu học. Cuốn sách giúp cha mẹ có góc nhìn thân thiện, gần gũi, khách quan, đa chiều để hiểu hơn về sự phát triển tâm lý của độ tuổi từ 5 đến 12."
+    },
+    {
+        "id": 50,
+        "title": "Vòng Tay Yêu Thương - Thỏ Con Tinh Nghịch",
+        "author": "Nicola Edwards, Natalie Marshall",
+        "category": "Sách thiếu nhi",
+        "price": 30000,
+        "image": "assets/book_img/tn/50.png",
+        "description": "Lấy hình ảnh ẩn dụ qua những chú thỏ, chú bọ, nàng ong, bông hoa…mà mẹ sẽ nhẹ nhàng thủ thỉ với con những vần thơ ý nghĩa."
+    }
+]

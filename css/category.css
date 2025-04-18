@@ -1,0 +1,27 @@
+/* 📁 css/category.css */
+
+#category-title {
+    margin: 20px 0 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: var(--text-dark);
+}
+
+.breadcrumb {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    margin: 10px 0 20px;
+}
+
+.breadcrumb a {
+    color: var(--teal);
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.breadcrumb span {
+    color: var(--text-dark);
+}

@@ -1,0 +1,46 @@
+<!--category.html-->
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sách theo danh mục</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="logo">Nhà Sách Online</div>
+        <input type="text" id="search-box" placeholder="Tìm kiếm sách...">
+        <nav class="nav" id="nav-user"></nav>
+    </header>
+
+    <div class="container">
+        <aside class="sidebar">
+            <h3>Danh mục sách</h3>
+            <ul></ul>
+        </aside>
+
+        <main class="main">
+            <nav class="breadcrumb">
+                <a href="index.html">Trang chủ</a> &gt;
+                <span id="category-title">Danh mục</span>
+            </nav>
+
+            <section>
+                <div id="book-list" class="grid"></div>
+            </section>
+        </main>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2025 Nhà Sách Online</p>
+    </footer>
+    <script type="module" src="js/firebase.js"></script>
+    <script type="module" src="js/user.js"></script>
+    <script type="module" src="js/book.js"></script>
+    <script type="module" src="js/cart.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+
+</html>
