@@ -1,0 +1,70 @@
+<!--book.html-->
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi tiết sách</title>
+    <link rel="stylesheet" href="css/book.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <button class="menu-toggle" id="menuToggle">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="dropdown">
+                <button class="category-toggle dropdown-toggle" id="categoryToggle">
+                    <i class="fas fa-list"></i>
+                </button>
+                <div class="dropdown-menu" id="category-dropdown">
+                    <h3>Danh mục sách</h3>
+                    <ul></ul>
+                </div>
+            </div>
+            <a href="index.html" class="logo">beeBooks</a>
+            <input type="text" id="search-box" placeholder="Tìm kiếm sách...">
+            <nav class="nav" id="nav-user">
+                <a href="index.html">Trang chủ</a>
+                <a href="cart.html">Giỏ hàng</a>
+                <a href="account.html">Tài khoản</a>
+            </nav>
+        </header>
+        <main class="main">
+            <div class="container">
+                <nav class="breadcrumb" id="breadcrumb"></nav>
+
+                <div class="content-wrapper">
+                    <aside class="sidebar">
+                        <h3>Danh mục sách</h3>
+                        <ul id="category-list"></ul>
+                    </aside>
+
+                    <div class="main-content">
+                        <section id="book-detail-section">
+                            <div id="book-detail"></div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2025 Nhà Sách Online</p>
+        </footer>
+    </div>
+    <script type="module" src="js/firebase.js"></script>
+
+    <script type="module" src="js/user.js"></script>
+    <script type="module" src="js/book.js"></script>
+    <script type="module" src="js/cart.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+
+</html>

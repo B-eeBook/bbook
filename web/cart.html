@@ -1,0 +1,81 @@
+<!--cart.html-->
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giỏ hàng</title>
+    <link rel="stylesheet" href="css/cart.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <button class="menu-toggle" id="menuToggle">
+                <i class="fas fa-bars"></i>
+            </button>
+            <a href="index.html" class="logo">beeBooks</a>
+            <input type="text" id="search-box" placeholder="Tìm kiếm sách...">
+            <nav class="nav" id="nav-user">
+                <a href="index.html">Trang chủ</a>
+                <a href="cart.html">Giỏ hàng</a>
+                <a href="account.html">Tài khoản</a>
+            </nav>
+        </header>
+
+        <main class="main">
+            <h2>Giỏ hàng của bạn</h2>
+            <div id="cart-empty" class="cart-empty" style="display: none;">
+                <h2>Giỏ hàng của bạn đang trống 😢</h2>
+                <p>Hãy khám phá các cuốn sách thú vị trong cửa hàng của chúng tôi!</p>
+                <a href="index.html" class="go-shop-btn">Tiếp tục mua sắm</a>
+            </div>
+            <div id="cart-items" class="cart"></div>
+            <div class="cart-summary">
+                <p id="total-price" class="total"></p>
+                <button type="button" id="checkout-btn" class="checkout-btn">Thanh toán</button>
+            </div>
+
+            <div id="checkout-form-container" class="checkout-form-container">
+                <h3>Thông tin thanh toán</h3>
+                <form id="checkout-form" class="checkout-form">
+                    <div class="form-group">
+                        <label for="fullname">Họ tên</label>
+                        <input type="text" id="fullname" name="fullname" placeholder="Nhập họ tên" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" placeholder="Nhập email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Số điện thoại</label>
+                        <input type="tel" id="phone" name="phone" placeholder="Nhập số điện thoại" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="address">Địa chỉ giao hàng</label>
+                        <textarea id="address" name="address" placeholder="Nhập địa chỉ giao hàng" required></textarea>
+                    </div>
+                    <div id="checkout-summary" class="checkout-summary"></div>
+                    <button type="submit" class="submit-btn">Xác nhận thanh toán</button>
+                </form>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2025 Nhà Sách Online</p>
+        </footer>
+    </div>
+
+    <script type="module" src="js/firebase.js"></script>
+    <script type="module" src="js/user.js"></script>
+    <script type="module" src="js/book.js"></script>
+    <script type="module" src="js/cart.js"></script>
+    <script type="module" src="js/main.js"></script>
+</body>
+
+</html>
