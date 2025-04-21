@@ -1,8 +1,0 @@
-# Node modules & migration workspace
-firestore-migrate/node_modules/
-# Service account key
-firestore-migrate/serviceAccountKey.json
-# Editor/OS files
-.vscode/
-.DS_Store
-Thumbs.db
