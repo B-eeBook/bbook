@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+<<<<<<< HEAD
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tài khoản của tôi</title>
+    <link rel="stylesheet" href="css/account.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <button class="menu-toggle" id="menuToggle">
+                <i class="fas fa-bars"></i>
+            </button>
+            <a href="index.html" class="logo">beeBooks</a>
+            <input type="text" id="search-box" placeholder="Tìm kiếm sách...">
+            <nav class="nav" id="nav-user">
+                <a href="index.html">Trang chủ</a>
+                <a href="cart.html">Giỏ hàng</a>
+                <a href="account.html">Tài khoản</a>
+            </nav>
+        </header>
+
+        <main class="main">
+            <section class="account-info">
+                <h2>Thông tin tài khoản</h2>
+                <div id="account-details"></div>
+            </section>
+
+            <section class="order-history">
+                <h2>Lịch sử đơn hàng</h2>
+                <button id="toggle-orders">Lịch sử đơn</button>
+                <input type="date" id="filter-date" style="margin-left: 10px; padding: 5px; border-radius: 4px;">
+                <div id="order-list" class="hidden" style="max-height: 400px; overflow-y: auto;"></div>
+            </section>
+
+        </main>
+
+        <footer class="footer">
+            <p>&copy; 2025 Nhà Sách Online</p>
+        </footer>
+    </div>
+=======
+    <title>Tài khoản của tôi</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="logo">Nhà Sách Online</div>
+        <input type="text" id="search-box" placeholder="Tìm kiếm sách...">
+        <nav class="nav" id="nav-user"></nav>
+    </header>
+
+    <main class="main">
+        <section class="account-info">
+            <h2>Thông tin tài khoản</h2>
+            <div id="account-details"></div>
+        </section>
+
+        <section class="order-history">
+            <h2>Lịch sử đơn hàng</h2>
+            <button id="toggle-orders">Lịch sử đơn</button>
+            <input type="date" id="filter-date" style="margin-left: 10px; padding: 5px; border-radius: 4px;">
+            <div id="order-list" class="hidden" style="max-height: 400px; overflow-y: auto;"></div>
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2025 Nhà Sách Online</p>
+    </footer>
+>>>>>>> 45987cd0525920eee0141509b7f5301b71ef9259
+
+    <!-- Firebase & User Nav -->
+    <script type="module" src="js/firebase.js"></script>
+    <script type="module" src="js/user.js"></script>
+
+    <!-- Trang Tài khoản -->
+    <script type="module" src="js/account.js"></script>
+<<<<<<< HEAD
+    <script type="module" src="js/main.js"></script>
+=======
+>>>>>>> 45987cd0525920eee0141509b7f5301b71ef9259
+</body>
+
+</html>

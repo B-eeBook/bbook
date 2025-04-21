@@ -1,0 +1,117 @@
+/* 📁 css/main.css */
+@import url('base.css');
+@import url('index.css');
+@import url('book.css');
+@import url('cart.css');
+@import url('account.css');
+@import url('category.css');
+<<<<<<< HEAD
+@import url('login_register.css');
+
+/* Book Grid */
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.book-item {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    overflow: hidden;
+}
+
+.book-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.book-item a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.book-item img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px 8px 0 0;
+}
+
+.book-item h3 {
+    margin: 10px;
+    font-size: 1em;
+    color: #333;
+    height: 2.4em;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.book-item .book-author {
+    margin: 5px 10px;
+    color: #666;
+    font-size: 0.9em;
+}
+
+.book-item .book-price {
+    margin: 10px;
+    color: #e74c3c;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+/* Pagination */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+}
+
+.pagination button {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    background: white;
+    color: #333;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.pagination button:hover {
+    background: #f5f5f5;
+}
+
+.pagination button.active {
+    background: #004d4d;
+    color: white;
+    border-color: #004d4d;
+}
+
+.pagination .pagination-dots {
+    color: #666;
+    padding: 0 5px;
+}
+
+.pagination .per-page-select {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.pagination .per-page-select:focus {
+    outline: none;
+    border-color: #004d4d;
+}
+=======
+@import url('login_register.css');
+>>>>>>> 45987cd0525920eee0141509b7f5301b71ef9259
